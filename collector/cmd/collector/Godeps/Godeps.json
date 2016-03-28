@@ -7,11 +7,6 @@
 	],
 	"Deps": [
 		{
-			"ImportPath": "github.com/bobrik/collectd-docker/collector",
-			"Comment": "0.4.0-7-g7587e3a",
-			"Rev": "7587e3a2493079f103261b22df05437595b9f56d"
-		},
-		{
 			"ImportPath": "github.com/fr0stbyte/collectd-docker/collector/cmd/collector",
 			"Comment": "0.4.1-3-g3bfb340",
 			"Rev": "3bfb340fc97f2359636ff29c2035cc1cc4e80a88"
