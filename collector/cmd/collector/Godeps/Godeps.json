@@ -48,10 +48,6 @@
 			"Rev": "ec2dd4992d673d98ea5aa2fc21d9b833111b464f"
 		},
 		{
-			"ImportPath": "github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/parsers",
-			"Rev": "ec2dd4992d673d98ea5aa2fc21d9b833111b464f"
-		},
-		{
 			"ImportPath": "github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/pools",
 			"Rev": "ec2dd4992d673d98ea5aa2fc21d9b833111b464f"
 		},
@@ -65,14 +61,6 @@
 		},
 		{
 			"ImportPath": "github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/system",
-			"Rev": "ec2dd4992d673d98ea5aa2fc21d9b833111b464f"
-		},
-		{
-			"ImportPath": "github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/ulimit",
-			"Rev": "ec2dd4992d673d98ea5aa2fc21d9b833111b464f"
-		},
-		{
-			"ImportPath": "github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/units",
 			"Rev": "ec2dd4992d673d98ea5aa2fc21d9b833111b464f"
 		},
 		{
